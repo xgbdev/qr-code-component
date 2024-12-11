@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Web deployed on vercel: [QR Code WEB](https://qr-code-component-seven-eta.vercel.app/)
 
-## My process
-
 ### Built with
 
 - HTML
